@@ -5,7 +5,7 @@ import re
 # --- CONFIGURATION ---
 DB_CONFIG = {
     'user': 'root',
-    'password': 'Ppbatar@2007',  # <--- APNA PASSWORD YAHA DALEIN
+    'password': 'Ppbatar@2007', 
     'host': 'localhost',
     'database': 'fleximart'
 }
